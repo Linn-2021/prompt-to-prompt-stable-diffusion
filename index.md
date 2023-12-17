@@ -1,6 +1,7 @@
 ---
-layout: home
-#layout: distill
+
+#layout: home
+layout: distill
 title: Prompt to Prompt
 description: Text-based image editing via cross-attention mechanisms - the research of hyperparameters and novel mechanisms to enhance existing frameworks
 date: 2023-11-07
